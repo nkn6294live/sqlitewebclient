@@ -9,10 +9,11 @@ A simple Sqlite Web Client
 ### Server
 - Add authentication and authorization (readwrite, readonly)
 - Connection manager update
-- Validate input
+- Validate input safer (dbpath,...)
 - API update
 - Protocol transport support
 - Load remote database (http link,...)
+- Safer api param input (query with db path)
 
 ### Client
 - Add some manage database feature
